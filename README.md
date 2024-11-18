@@ -1,6 +1,6 @@
 # xorg-keyboard-config
-Configuration files for X11 and vconsole, making sure the TTY login has the
-correct layout.
+Configuration files for X11 and vconsole, ensuring that the TTY login has the
+correct layout, even before starting X11.
 
 ## File generation
 The files can be generated with:
